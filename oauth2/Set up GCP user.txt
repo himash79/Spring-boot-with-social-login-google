@@ -1,0 +1,11 @@
+01) Open browser and navigate to the google cloud platform.
+02) Create project.
+03) Select apis & services then choose credentials.
+04) Choose create credentials & Oauth client id.
+05) If you see set up consent screen configure first (Add sample details for that).
+    or
+06) Complete the application name , name fields.
+07) Add project URI (ex: http://localhost:8080 - Developer local project URI).
+08) Add authorized redirect URI (http://localhost:8090/login/oauth2/code/google).
+09) Download / copy client id and secret.
+10) Add the Client ID & Client Secret Application.yml file related fileds in project.

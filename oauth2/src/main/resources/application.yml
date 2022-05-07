@@ -1,0 +1,13 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google :
+            clientId: Developer configured client id
+            clientSecret: Developer configured client secret
+
+
+
+server:
+  port: 8090
